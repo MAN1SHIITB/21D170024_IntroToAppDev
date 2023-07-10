@@ -3,8 +3,8 @@
 Assignments:
 #### W1:  [Counter App](https://github.com/MAN1SHIITB/21D170024_IntroToAppDev/blob/main/main.dart)
 
-#### W2:
+#### W2: Will be out soon!!!
 
-#### W3:
+#### W3:  Will be out soon!!!
 
-#### W4: 
+#### W4:  Will be out soon!!!
